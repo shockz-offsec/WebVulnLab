@@ -40,11 +40,12 @@ Ahora que ya está todo instalado, se nos habrán desplegado todos los dockers.
 En el Servidor principal, cuando le das a 'Empezar a Aprender' te llevara un menú donde tienes enlaces directos a cada docker, para poder practicar.
 También en el Tablero, puedes encender y apagar vía web.
 
-## Cosas para las siguientes actualizaciones
+## Cosas para las siguientes actualizaciones (Segunda versión, se puede acceder [aquí](https://github.com/sil3ntH4ck3r/Pentesting-Web-Lab/tree/dev))
 
 - Añadir más vulnerabilidades.
 - ~~Ver en el tablero que máquinas están encendidas y que máquinas están apagadas.~~
-- Uso de Traefik para poner subdominios, y que no sea por IP
+- ~~Uso de Traefik para poner subdominios, y que no sea por IP~~
+    - Al final no se ha echo con Traefik, sino que se ha aplicado Virtual Hosting. Ahora los enlaces a los contenedores son más fáciles de recordar.
 - Añadir alguna máquina CTF
 - En cada máquina, añadir la opción de aprender, donde podrás descubrir más sobre dicha vulnerabilidad.
 - Mejorar la estética (estoy trabajando en ello).
