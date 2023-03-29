@@ -43,10 +43,10 @@ También en el Tablero, puedes encender y apagar vía web.
 ## Cosas para las siguientes actualizaciones
 
 - Añadir más vulnerabilidades.
-- Ver en el tablero que máquinas están encendidas y que máquinas están apagadas.
+- ~~Ver en el tablero que máquinas están encendidas y que máquinas están apagadas.~~
 - Uso de Traefik para poner subdominios, y que no sea por IP
 - Añadir alguna máquina CTF
 - En cada máquina, añadir la opción de aprender, donde podrás descubrir más sobre dicha vulnerabilidad.
 - Mejorar la estética (estoy trabajando en ello).
-- Añadir la posibilidad de reiniciar los contenedores.
+- ~~Añadir la posibilidad de reiniciar los contenedores.~~
 - Hacer este mismo proyecto (Pentesting-Web-Lab), pero para Windows.
