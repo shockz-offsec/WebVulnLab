@@ -1,4 +1,7 @@
-# Pentesting-Web-Lab
+# Pentesting-Web-Lab (DESACTUALIZADO)
+
+**Este proyecto ya no está recibiendo actualizaciones y se considera en estado de mantenimiento.** Sin embargo, se ha lanzado una versión 2.0 que incluye mejoras y correcciones adicionales. Si deseas utilizar la versión más reciente, puedes encontrarla [aqui](https://github.com/sil3ntH4ck3r/WebVulnLab/tree/dev).
+
 
 Pentesting-Web-Lab es una herramienta que te permite desplegar dockers con diferentes vulnerabilidades web, para que puedas practicar en un sitio centralizado.
 Una herramienta, que ha sido creada con las diferentes vulnerabilidades de DVWA, XVWA... con el fin de tener las máximas vulnerabilidades web en un mismo sitio, y acceder a ellas sin la necesidad de conexión a internet.
