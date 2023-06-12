@@ -1,4 +1,4 @@
-# Pentesting-Web-Lab (DESACTUALIZADO)
+# Pentesting-Web-Lab (DESACTUALIZADO) [Versión 2.0](https://github.com/sil3ntH4ck3r/WebVulnLab/tree/dev)
 
 **Este proyecto ya no está recibiendo actualizaciones y se considera en estado de mantenimiento.** Sin embargo, se ha lanzado una versión 2.0 que incluye mejoras y correcciones adicionales. Si deseas utilizar la versión más reciente, puedes encontrarla [aqui](https://github.com/sil3ntH4ck3r/WebVulnLab/tree/dev).
 
